@@ -1,15 +1,17 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 4 - Final Project
+### Project Planning Deliverables – DUE TUES, FEB 20 (EOD)
+### Completed Planning Deliverables – DUE TUES, FEB 27 (10:30AM)
 
 **Read this entire document before writing a line of code.**
 
 ## Contents
 
 * **[Overview](#overview):** What is this project?
+* **[Deadlines](#deadlines):** When is the project due?
 * **[Big Goals](#big-goals):** What should I focus on?
 * **[Technical Requirements](#technical-requirements):** What technologies will I be using?
 * **[Further Exploration](#further-exploration):** What if I want to do more?
-* **[Planning & Deliverables](#planning--deliverables):** What will I be turning in?
-* **[Deadlines](#deadlines):** When is the project due?
+* **[Deliverables](#planning--deliverables):** What will I be turning in?
 * **[Submission](#submission):** How do I turn in the project?
 * **[Presentation Guidelines](#presentation-guidelines):** What should I cover during my presentation?
 * **[Project Feedback](#project-feedback):** How will I get feedback from instructors?
@@ -22,91 +24,9 @@
 
 **You’ve come a long way, and it's time to show it.** This will be your most advanced project to date, and it'll hopefully be the shining beacon of bragging rights for your portfolio as you make your way out into the world of web development.
 
-**You get to call the shots and invent your own idea**, choosing a framework and tools that are appropriate for what you want to build. Use everything you've learned so far, and **tackle something that'll push you a little outside of your comfort zone**.
+**You call the shots**, choosing a tech stack and tools that are appropriate for what you want to build. Use everything you've learned so far, and **tackle something that will push you outside your comfort zone**.
 
-Make sure it's **something you can accomplish in the limited time we have**, and make sure it's **something that will be visually impressive**.
-
-**You may work on this project individually or in pairs.** See the [project planning deliverables](#project-planning-deliverables) section below for extra planning requirements for pairs.
-
----
-
-## Big Goals
-
-###### What should I focus on?
-
-* **Discover or invent an idea**, preferably one with some group of users that would jump at the chance to really use your product.
-* **Design a product *you* want to build**, and choose _appropriate technologies_ to build it.
-* **Pitch your idea** to your classmates and instructors, and incorporate their feedback.
-* **Make productive use of your time**, and balance responsibilities to make a complete, impressive-looking project.
-* **Focus on writing solid, real-world code** that is well-documented and DRY.
-
----
-
-## Technical Requirements
-
-###### What technologies will I be using?
-
-**Your app must meet the following technical requirements:**
-
-* **Use a database**, whether it's one we've covered in class or one you want to learn.
-* **Build a full-stack application** by making your own back-end and your own front-end.
-* **Create a complete product**, which most likely means multiple related resources and CRUD functionality for each.
-* **Create a focused product**. Know which features are essential to build for your MVP and which to set aside for later.
-* **Craft thoughtful user stories** that are significant enough to help you ensure a pleasing and logical user experience.
-* **Handle errors gracefully**, and provide useful feedback to users when errors or validation failures do occur.
-* **Make a product that's impressive-looking**; up your design and style game to kick your portfolio up a notch.
-* **Deploy your application online** so it's publicly accessible.
-
----
-
-## Further Exploration
-
-###### What if I want to do more?
-
-* **Incorporate an external API** to add data and functionality to your application.
-* **Use a data visualization library** to help users understand your core data.
-* **Implement third-party log in** to allow users to access data from other services.
-* **Build something you can really launch**, and recruit an actual user-base.
-* **Test** critical components of your code to ensure that it works.
-* **Research web accessibility** (e.g., for blind users), and apply accessibility principles to your app.
-
----
-
-## Planning & Deliverables
-
-###### What will I be turning in?
-
-### Project Planning Deliverables
-
-**You should review the following with your instructional team BEFORE you start to code.**
-
-* **Scope:** What are you planning to build? What do you reasonably think you can implement in the time period?
-* **User Stories:** Who is your user? What features will your app have? Set up your project and user stories using <a href="https://trello.com" target="_blank">Trello</a> or another system/tool that works for you.
-* **Wireframes:** Sketch out what your core pages will look like and how they will work. Consider making a *paper prototype* to demonstrate and/or test key user interactions.
-* **Data Models:** Draw out the models and any associations for your project in an entity relationship diagram (ERD).
-* **Milestones:** Divide your work into parts - the most essential features for your MVP, features that are important but not essential, and features that can be saved for a later iteration. Create 3-5 major milestones with dates outlining when you expect essential features will be done.
-* **Feasibility Study:** If you're using an external API or scraping a website, make sure you can get that data. If you're using a new language, framework, or tool, go through its getting started tutorial. We *will* ask to see your results.
-
-**In addition to the above requirements, students working as pairs must:**
-
-* Detail each person's responsibilities and features they will own.
-* Describe your plan for workflow and communication.
-* Demonstrate that each person will be challenged to contribute excellent work.
-
-### Completed Project Deliverables
-
-* A **working full-stack application**, hosted somewhere on the internet.
-* A **git repository hosted on Github**, with frequent commits dating back to the beginning of the project.
-* A **link to your hosted working app** in the URL section of your Github repo.
-* **A `README.md` file** with:
-  * A **link to your hosted working app**.
-  * A paragraph-long **description** (elevator pitch) of your project.
-  * A list of the **technologies used**.
-  * A list of **installation steps** for the app itself and any dependencies - how would another developer run your site locally?
-  * Link to your **user stories** - who are your users, what do they want, and why?
-  * Link to your **wireframes** – sketches of major views / interfaces in your application.
-  * Link to your **entity relationship diagrams** – plan out your data relationships before coding.
-  * Descriptions of any **unsolved problems** or **future features**.
+**Be strategic.** Make sure you are planning to build **something you can accomplish in the limited time frame we have** (~6 in-class days, as well as weekends). Just as importantly, make sure it's **something that will be visually impressive** by the time you present.
 
 ---
 
@@ -114,9 +34,79 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### When is the project due?
 
-* **BY WEDNESDAY AFTERNOON, October 25** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **BY TUESDAY EOD, February 20** - [Project planning deliverables](#project-planning-deliverables) due!
 
-* **Wednesday, November 1 and Thursday, November 2 at 3pm** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **TUESDAY MORNING, February 27 at 10:30AM** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+
+---
+
+## Big Goals
+
+###### What should I focus on?
+
+* **Discover or invent an idea**, preferably one you know users would jump at the chance to use.
+* **Design a product *you* want to build**, and choose _appropriate technologies_ to build it.
+* **Pitch your idea** to your peers and incorporate their feedback. Meet with your instructors and listen to their advice. 
+* **Make productive use of your time**, and balance responsibilities to make a complete, impressive-looking project.
+* **Focus on writing production-level code** that is well-documented, DRY, and a delight to read.
+
+---
+
+## Technical Requirements
+
+Your application must: 
+
+* **Be full-stack and use a database** – with a back-end and front-end that you yourself have built.
+* **Be deployed online** so it's publicly accessible.
+* **Be a focused and complete product**, which likely means multiple resources with CRUD functionality and an MVP feature set.
+* **Handle errors gracefully**, and provide useful feedback to users when errors or validation failures do occur.
+* **Be mindful of your users** – craft deliberate user stories that ensure a pleasing and logical user experience.
+* **Look impressive**; up your design and style game to kick your portfolio up a notch.
+
+---
+
+## Further Exploration
+
+###### What if I want to do more?
+
+Suggestions for going above and beyond, in order of most recommended:
+
+* **Incorporate a 3rd party API** to add data and functionality to your application.
+* **Implement login** – you could even implement 3rd party authentication to allow users to login using their credentials from other services.
+* **Test** critical components of your code.
+* **Recruit real users** for your app.
+
+---
+
+## Deliverables
+
+###### What will I be turning in?
+
+### Project Planning Deliverables
+
+**Review the following with your instructors BEFORE coding.**
+
+* **Scope:** What are you planning to build? What can you reasonably implement in the given time period?
+* **Wireframes:** Sketch out your core pages – what they'll look like and how they'll work. Consider a *paper prototype* to demonstrate or test user flow and experience.
+* **Data Models:** Draw out your models and their associations in an entity relationship diagram (ERD).
+* **User Stories:** Who is your user? What features will your app have? Write user stories using <a href="https://trello.com" target="_blank">Trello</a> or a similar planning tool that works for you.
+* **Milestones:** Divide your work into 3-5 major sprints, each with their own deadlines, to keep you on track. Make sure you prioritize the essential features for your MVP and get your app's core functionality working before moving on. Keep a log of stretch goals that can be saved for when your core functionality is in, or even for a later iteration – don't let the bells and whistles distract you from working on your MVP.
+* **Feasibility Study:** If you're using an external API or scraping a website, make sure that it is appropriately accessible and reasonably straightforward to work with it. If you're using a new language, framework, or tool, go through introductory tutorials before throwing it into your code. We *will* ask to see your results.
+
+### Final Deliverables
+
+* **Working full-stack application**, hosted somewhere on the internet.
+* **Github repo** that has frequent commits with intuitive commit messaes dating back to the beginning of the project.
+* **Link to your hosted app** in the URL section of your Github repo (edit your repo description to add the link)
+* **A `README.md` file** with:
+  * **Link to your hosted app**.
+  * Paragraph-long **description** (or elevator pitch) of your project.
+  * List of **technologies used**.
+  * List of **installation and setup steps** for the app itself and any dependencies - how would another developer run your site locally?
+  * Link to **user stories** 
+  * Link to **wireframes** 
+  * Link to **entity relationship diagrams** 
+  * List of **unsolved problems** or **future features**.
 
 ---
 
