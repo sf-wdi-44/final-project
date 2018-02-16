@@ -7,13 +7,13 @@
 
 ## Contents
 
-* **[Overview](#overview)
-* **[Pro Tips](#pro-tips)
-* **[Requirements](#requirements)
-* **[Above and Beyond](#above-and-beyond)
-* **[Deliverables](#deliverables)
-* **[Presentation Guidelines](#presentation-guidelines)
-* **[Feedback](#feedback)
+* **[Overview](#overview)**
+* **[Pro Tips](#pro-tips)**
+* **[Requirements](#requirements)**
+* **[Above and Beyond](#above-and-beyond)**
+* **[Deliverables](#deliverables)**
+* **[Presentation Guidelines](#presentation-guidelines)**
+* **[Feedback](#feedback)**
 
 ---
 
