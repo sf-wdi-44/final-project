@@ -29,16 +29,6 @@
 
 ---
 
-## Deadlines
-
-###### When is the project due?
-
-* **BY TUESDAY EOD, February 20** - [Project planning deliverables](#project-planning-deliverables) due!
-
-* **TUESDAY MORNING, February 27 at 10:30AM** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
-
----
-
 ## Pro Tips
 
 ###### What should I focus on?
