@@ -72,6 +72,7 @@ Suggestions for going above and beyond:
 ###### What will I be turning in?
 
 ### Project Planning Deliverables
+**- DUE TUES, FEB 20 (EOD)**
 
 **Review the following with your instructors BEFORE coding.**
 
@@ -83,6 +84,7 @@ Suggestions for going above and beyond:
 * **Feasibility Study:** If you're using an external API or scraping a website, make sure that it is appropriately accessible and reasonably straightforward to work with it. If you're using a new language, framework, or tool, go through introductory tutorials before throwing it into your code. We *will* ask to see your results.
 
 ### Final Deliverables
+**– DUE TUES, FEB 27 (10AM)**
 
 * **Working full-stack application**, hosted somewhere on the internet (most likely Heroku).
 * **Links to your hosted app and Github repo in the Project Submission Doc**
@@ -99,6 +101,7 @@ Suggestions for going above and beyond:
 ---
 
 ## Presentation Guidelines
+**– DUE TUES, FEB 27 (11AM)**
 
 At the end of this project, you'll present your accomplishments with a 10-minute presentation on **TUES, FEBRUARY 27**.
 
