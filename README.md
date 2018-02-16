@@ -56,16 +56,14 @@ Your application must:
 * **Be deployed online** so it's publicly accessible.
 * **Be a focused and complete product**, which likely means multiple resources with CRUD functionality and an MVP feature set.
 * **Handle errors gracefully**, and provide useful feedback to users when errors or validation failures do occur.
-* **Be mindful of your users** – craft deliberate user stories that ensure a pleasing and logical user experience.
-* **Look impressive**; up your design and style game to kick your portfolio up a notch.
+* **Provide a logical user flow and pleasing user experience**.
+* **Be stylistically impressive** – up your CSS game to give your portfolio that extra polish and professionalism.
 
 ---
 
 ## Above and Beyond
 
 ###### What if I want to do more?
-
-Suggestions for going above and beyond:
 
 * **Implement login** – you could even implement 3rd party authentication to allow users to login using their credentials from other services.
 * **Incorporate a 3rd party API** to add data and functionality to your application.
