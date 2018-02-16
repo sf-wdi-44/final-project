@@ -1,6 +1,7 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 4 - Final Project
-### Project Planning Deliverables – DUE TUES, FEB 20 (EOD)
-### Completed Planning Deliverables – DUE TUES, FEB 27 (10:30AM)
+* Project Planning Deliverables – **DUE TUES, FEB 20 (EOD)**
+* Completed Planning Deliverables – **DUE TUES, FEB 27 (10AM)**
+* Presentations – **DUE TUES, FEB 27 (11AM)**
 
 **Read this entire document before writing a line of code.**
 
@@ -11,8 +12,7 @@
 * **[Big Goals](#big-goals):** What should I focus on?
 * **[Technical Requirements](#technical-requirements):** What technologies will I be using?
 * **[Further Exploration](#further-exploration):** What if I want to do more?
-* **[Deliverables](#planning--deliverables):** What will I be turning in?
-* **[Submission](#submission):** How do I turn in the project?
+* **[Deliverables](#deliverables):** What will I be turning in?
 * **[Presentation Guidelines](#presentation-guidelines):** What should I cover during my presentation?
 * **[Project Feedback](#project-feedback):** How will I get feedback from instructors?
 
@@ -95,10 +95,10 @@ Suggestions for going above and beyond, in order of most recommended:
 
 ### Final Deliverables
 
-* **Working full-stack application**, hosted somewhere on the internet.
-* **Github repo** that has frequent commits with intuitive commit messaes dating back to the beginning of the project.
-* **Link to your hosted app** in the URL section of your Github repo (edit your repo description to add the link)
-* **A `README.md` file** with:
+* **Working full-stack application**, hosted somewhere on the internet (most likely Heroku).
+* **Links to your hosted app and Github repo in the Project Submission Doc**
+* **Github repo** that has frequent commits with intuitive commit messaes dating back to the beginning of the project. It should have a link to your hosted app in the website URL section at the top of the page, next to your repo description.
+  * **A `README.md` file** with:
   * **Link to your hosted app**.
   * Paragraph-long **description** (or elevator pitch) of your project.
   * List of **technologies used**.
@@ -107,37 +107,20 @@ Suggestions for going above and beyond, in order of most recommended:
   * Link to **wireframes** 
   * Link to **entity relationship diagrams** 
   * List of **unsolved problems** or **future features**.
-
----
-
-## Submission
-
-###### How do I turn in the project?
-
-* As you make code changes, **frequently commit and push to GitHub**.
-* You will be required to submit the GitHub URL and the URL to the live site - watch slack for details.
-
 ---
 
 ## Presentation Guidelines
 
-At the end of this project, you'll present your accomplishments in two ways:
-
-1. A formal presentation, either Wednesday or Thursday, Nov. 1 or 2 at 3:00 PM.
-2. A science-fair style showcase, Thursday Nov. 2 at 12:30 PM.
+At the end of this project, you'll present your accomplishments with a formal presentation, TUESDAY, FEBRUARY 27.
 
 ###### What should I cover during my presentation?
 
-Each presentation should be **10 minutes or less** and cover the following:
+Each presentation should be **no longer than 10 minutes** and cover the following:
 
-* What was your motivation to build this project?
-* Demo of your project's core functionality.
+* What was your motivation to build this project? (WHO, WHAT, WHY)
+* What is the core functionality of your app?
 * What is one feature you're particularly proud of? (show code)
-* Shout-outs for your fellow classmates!
-
-###### What should I prepare for the showcase?
-
-You should have your app ready to demo on your computer, and a quick (2-3 minute) explanation of what your project is and what's interesting about it.
+* Shout-outs to anyone who helped you on this crazy final project journey
 
 ---
 
