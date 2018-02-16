@@ -120,4 +120,14 @@ Each presentation should cover the following:
 
 ###### How will I get feedback from instructors?
 
-See the [feedback doc](feedback.md) for details.
+You'll be receiving feedback from your instructors in a 1:1 meeting the morning after your presentation. Here are the areas in which we will evaluate your performance.
+
+- [ ] **Project Workflow**: Did you complete the user stories, wireframes, ERDs, and task-tracking, as specified in the project specs? Did you effectively use version control?
+
+- [ ] **Technical Requirements**: Did you deliver a project that met all the technical requirements? Did you build something that was reasonably complex with the technical knowledge you've gained in the course?
+
+- [ ] **Creativity**: Did you add a personal spin or creative element to your project? Did you deliver something of value to the end user?
+
+- [ ] **Code Quality**: Did you follow code style guidance and best practices covered in class, such as indentation, spacing, modularity, and semantic naming? Did you comment your code and document your project?
+
+- [ ] **Problem Solving**: Are you able to defend why you implemented solutions in a certain way? Can you demonstrate that you thought through alternative implementations?
