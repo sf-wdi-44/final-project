@@ -76,28 +76,28 @@ Suggestions for going above and beyond:
 
 **Review the following with your instructors BEFORE coding.**
 
-* **Scope:** What are you planning to build? What can you reasonably implement in the given time period?
-* **Wireframes:** Sketch out your core pages – what they'll look like and how they'll work. Consider a *paper prototype* to demonstrate or test user flow and experience.
-* **Data Models:** Draw out your models and their associations in an entity relationship diagram (ERD).
-* **User Stories:** Who is your user? What features will your app have? Write user stories using <a href="https://trello.com" target="_blank">Trello</a> or a similar planning tool that works for you.
-* **Milestones:** Divide your work into 3-5 major sprints, each with their own deadlines, to keep you on track. Make sure you prioritize the essential features for your MVP and get your app's core functionality working before moving on. Keep a log of stretch goals that can be saved for when your core functionality is in, or even for a later iteration – don't let the bells and whistles distract you from working on your MVP.
-* **Feasibility Study:** If you're using an external API or scraping a website, make sure that it is appropriately accessible and reasonably straightforward to work with it. If you're using a new language, framework, or tool, go through introductory tutorials before throwing it into your code. We *will* ask to see your results.
+- [ ] **Scope:** What are you planning to build? What can you reasonably implement in the given time period?
+- [ ] **Wireframes:** Sketch out your core pages – what they'll look like and how they'll work. Consider a *paper prototype* to demonstrate or test user flow and experience.
+- [ ] **Data Models:** Draw out your models and their associations in an entity relationship diagram (ERD).
+- [ ] **User Stories:** Who is your user? What features will your app have? Write user stories using <a href="https://trello.com" target="_blank">Trello</a> or a similar planning tool that works for you.
+- [ ] **Milestones:** Divide your work into 3-5 major sprints, each with their own deadlines, to keep you on track. Make sure you prioritize the essential features for your MVP and get your app's core functionality working before moving on. Keep a log of stretch goals that can be saved for when your core functionality is in, or even for a later iteration – don't let the bells and whistles distract you from working on your MVP.
+- [ ] **Feasibility Study:** If you're using an external API or scraping a website, make sure that it is appropriately accessible and reasonably straightforward to work with it. If you're using a new language, framework, or tool, go through introductory tutorials before throwing it into your code. We *will* ask to see your results.
 
 ### Final Deliverables
 **– DUE TUES, FEB 27 (10AM)**
 
-* **Working full-stack application**, hosted somewhere on the internet (most likely Heroku).
-* **Links to your hosted app and Github repo in the Project Submission Doc**
-* **Github repo** that has frequent commits with intuitive commit messaes dating back to the beginning of the project. It should have a link to your hosted app in the website URL section at the top of the page, next to your repo description.
+- [ ] **Working full-stack application**, hosted somewhere on the internet (most likely Heroku).
+- [ ] **Links to your hosted app and Github repo in the Project Submission Doc**
+- [ ] **Github repo** that has frequent commits with intuitive commit messaes dating back to the beginning of the project. It should have a link to your hosted app in the website URL section at the top of the page, next to your repo description.
   * **A `README.md` file** with:
-  * **Link to your hosted app**.
-  * Paragraph-long **description** (or elevator pitch) of your project.
-  * List of **technologies used**.
-  * List of **installation and setup steps** for the app itself and any dependencies - how would another developer run your site locally?
-  * Link to **user stories** 
-  * Link to **wireframes** 
-  * Link to **entity relationship diagrams** 
-  * List of **unsolved problems** or **future features**.
+  - [ ] **Link to your hosted app**.
+  - [ ] Paragraph-long **description** (or elevator pitch) of your project.
+  - [ ] List of **technologies used**.
+  - [ ] List of **installation and setup steps** for the app itself and any dependencies - how would another developer run your site locally?
+  - [ ] Link to **user stories** 
+  - [ ] Link to **wireframes** 
+  - [ ] Link to **entity relationship diagrams** 
+  - [ ] List of **unsolved problems** or **future features**.
 ---
 
 ## Presentation Guidelines
@@ -109,10 +109,10 @@ At the end of this project, you'll present your accomplishments with a 10-minute
 
 Each presentation should cover the following:
 
-* What was your motivation to build this project? (WHO, WHAT, WHY)
-* What is the core functionality of your app?
-* What is one feature you're particularly proud of? (show code)
-* Who helped you on this crazy final project journey? Give them a shout out!
+- [ ] What was your motivation to build this project? (WHO, WHAT, WHY)
+- [ ] What is the core functionality of your app?
+- [ ] What is one feature you're particularly proud of? (show code)
+- [ ] Who helped you on this crazy final project journey? Give them a shout out!
 
 ---
 
