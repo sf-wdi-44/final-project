@@ -33,11 +33,18 @@
 
 ###### What should I focus on?
 
+Planning:
 * **Work on a product *you* want to build**, and choose _appropriate technologies_ to build it.
 * **Pitch your idea** to your instructors and peers, and incorporate their feedback. 
-* **Set milestones and deadlines** to ensure you stay on schedule.
-* **Scope appropriately** to make a complete and impressive-looking project.
-* **Commit production-level code** that is well-documented, DRY, and a delight to read.
+* **Don’t get too caught up in awesome features**. Scope appropriately, so you can finish a complete and impressive-looking project.
+* **Design first.** Planning with wireframes and well-defined user stories before writing code will keep you focused. You'll know what to build, and you can spend your time wisely by just building it.
+* **Keep user stories small and well-defined**, and **set milestones and deadlines** to ensure you stay on schedule.
+
+Coding: 
+* **Commit early, and commit often.** Don’t be afraid to break something, because you can always go back in time using Git.
+* **Be consistent with your code style**, and write well-formatted and readable code (INDENTATION INDENTATION INDENTATION).
+* **Write pseudocode before you write actual code.** It helps to think through the logic before coding the functionality.
+* **Commit production-level code** that is well-documented, easy to understand, and a delight to read.
 
 ---
 
@@ -79,7 +86,7 @@ Suggestions for going above and beyond:
 - [ ] **Scope:** What are you planning to build? What can you reasonably implement in the given time period?
 - [ ] **Wireframes:** Sketch out your core pages – what they'll look like and how they'll work. Consider a *paper prototype* to demonstrate or test user flow and experience.
 - [ ] **Data Models:** Draw out your models and their associations in an entity relationship diagram (ERD).
-- [ ] **User Stories:** Who is your user? What features will your app have? Write user stories using <a href="https://trello.com" target="_blank">Trello</a> or a similar planning tool that works for you.
+- [ ] **User Stories:** Who is your user? What features will your app have? Remember – user stories say what a user needs from your app, not what development tasks you have to tackle (e.g. "A user should be able to login", not "Use passport to allow a user model to create and destroy sessions"). Write your user stories using <a href="https://trello.com" target="_blank">Trello</a> or another planning tool that works for you.
 - [ ] **Milestones:** Divide your work into 3-5 major sprints, each with their own deadlines, to keep you on track. Make sure you prioritize the essential features for your MVP and get your app's core functionality working before moving on. Keep a log of stretch goals that can be saved for when your core functionality is in, or even for a later iteration – don't let the bells and whistles distract you from working on your MVP.
 - [ ] **Feasibility Study:** If you're using an external API or scraping a website, make sure that it is appropriately accessible and reasonably straightforward to work with it. If you're using a new language, framework, or tool, go through introductory tutorials before throwing it into your code. We *will* ask to see your results.
 
