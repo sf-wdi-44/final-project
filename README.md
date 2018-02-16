@@ -7,14 +7,13 @@
 
 ## Contents
 
-* **[Overview](#overview):** What is this project?
-* **[Deadlines](#deadlines):** When is the project due?
-* **[Big Goals](#big-goals):** What should I focus on?
-* **[Technical Requirements](#technical-requirements):** What technologies will I be using?
-* **[Further Exploration](#further-exploration):** What if I want to do more?
-* **[Deliverables](#deliverables):** What will I be turning in?
-* **[Presentation Guidelines](#presentation-guidelines):** What should I cover during my presentation?
-* **[Project Feedback](#project-feedback):** How will I get feedback from instructors?
+* **[Overview](#overview)
+* **[Pro Tips](#pro-tips)
+* **[Requirements](#requirements)
+* **[Above and Beyond](#above-and-beyond)
+* **[Deliverables](#deliverables)
+* **[Presentation Guidelines](#presentation-guidelines)
+* **[Feedback](#feedback)
 
 ---
 
@@ -40,19 +39,19 @@
 
 ---
 
-## Big Goals
+## Pro Tips
 
 ###### What should I focus on?
 
-* **Discover or invent an idea**, preferably one you know users would jump at the chance to use.
-* **Design a product *you* want to build**, and choose _appropriate technologies_ to build it.
-* **Pitch your idea** to your peers and incorporate their feedback. Meet with your instructors and listen to their advice. 
-* **Make productive use of your time**, and balance responsibilities to make a complete, impressive-looking project.
-* **Focus on writing production-level code** that is well-documented, DRY, and a delight to read.
+* **Work on a product *you* want to build**, and choose _appropriate technologies_ to build it.
+* **Pitch your idea** to your instructors and peers, and incorporate their feedback. 
+* **Set milestones and deadlines** to ensure you stay on schedule.
+* **Scope appropriately** to make a complete and impressive-looking project.
+* **Commit production-level code** that is well-documented, DRY, and a delight to read.
 
 ---
 
-## Technical Requirements
+## Requirements
 
 Your application must: 
 
@@ -65,14 +64,14 @@ Your application must:
 
 ---
 
-## Further Exploration
+## Above and Beyond
 
 ###### What if I want to do more?
 
-Suggestions for going above and beyond, in order of most recommended:
+Suggestions for going above and beyond:
 
-* **Incorporate a 3rd party API** to add data and functionality to your application.
 * **Implement login** – you could even implement 3rd party authentication to allow users to login using their credentials from other services.
+* **Incorporate a 3rd party API** to add data and functionality to your application.
 * **Test** critical components of your code.
 * **Recruit real users** for your app.
 
@@ -111,20 +110,20 @@ Suggestions for going above and beyond, in order of most recommended:
 
 ## Presentation Guidelines
 
-At the end of this project, you'll present your accomplishments with a formal presentation, TUESDAY, FEBRUARY 27.
+At the end of this project, you'll present your accomplishments with a 10-minute presentation on **TUES, FEBRUARY 27**.
 
 ###### What should I cover during my presentation?
 
-Each presentation should be **no longer than 10 minutes** and cover the following:
+Each presentation should cover the following:
 
 * What was your motivation to build this project? (WHO, WHAT, WHY)
 * What is the core functionality of your app?
 * What is one feature you're particularly proud of? (show code)
-* Shout-outs to anyone who helped you on this crazy final project journey
+* Who helped you on this crazy final project journey? Give them a shout out!
 
 ---
 
-## Project Feedback
+## Feedback
 
 ###### How will I get feedback from instructors?
 
