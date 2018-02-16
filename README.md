@@ -108,11 +108,9 @@ Your application must:
 ## Presentation Guidelines
 **– DUE TUES, FEB 27 (11AM)**
 
-At the end of this project, you'll present your accomplishments with a 10-minute presentation on **TUES, FEBRUARY 27**.
-
 ###### What should I cover during my presentation?
 
-Each presentation should cover the following:
+Final project presentations should be **no longer than 10 minutes** and cover the following questions:
 
 - [ ] What was your motivation to build this project? (WHO, WHAT, WHY)
 - [ ] What is the core functionality of your app?
@@ -125,7 +123,7 @@ Each presentation should cover the following:
 
 ###### How will I get feedback from instructors?
 
-You'll be receiving feedback from your instructors in a 1:1 meeting the morning after your presentation. Here are the areas in which we will evaluate your performance.
+You'll be receiving feedback in a 1:1 meeting with your instructors the day after your presentation. 
 
 - [ ] **Project Workflow**: Did you complete the user stories, wireframes, ERDs, and task-tracking, as specified in the project specs? Did you effectively use version control?
 
