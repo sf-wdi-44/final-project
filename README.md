@@ -1,9 +1,9 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> WDI 42 – Final Project
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> WDI 44 – Final Project
 ***Read this entire document before writing a line of code.***
 
-* Project Planning Deliverables – **DUE TUES, FEB 20 (EOD)**
-* Completed Planning Deliverables – **DUE TUES, FEB 27 (10AM)**
-* Presentations – **DUE TUES, FEB 27 (11AM)**
+* Project Planning Deliverables – **DUE FRI, MAY 25 (EOD)**
+* Completed Planning Deliverables – **DUE FRI, JUNE 1 (10AM)**
+* Presentations – **DUE FRI, JUNE 1 (11AM)**
 
 ## Contents
 
@@ -77,7 +77,7 @@ Your application must:
 ###### What will I be turning in?
 
 ### Project Planning Deliverables
-**- DUE TUES, FEB 20 (EOD)**
+**- DUE FRI, JUNE 1 (EOD)**
 
 **Review the following with your instructors BEFORE coding.**
 
@@ -89,7 +89,7 @@ Your application must:
 - [ ] **Feasibility Study:** If you're using an external API or scraping a website, make sure that it is appropriately accessible and reasonably straightforward to work with it. If you're using a new language, framework, or tool, go through introductory tutorials before throwing it into your code. We *will* ask to see your results.
 
 ### Final Deliverables
-**– DUE TUES, FEB 27 (10AM)**
+**– DUE FRI, JUNE 1 (10AM)**
 
 - [ ] **Working full-stack application**, hosted somewhere on the internet (most likely Heroku).
 - [ ] **Links to your hosted app and Github repo in the Project Submission Doc**
@@ -106,7 +106,7 @@ Your application must:
 ---
 
 ## Presentation Guidelines
-**– DUE TUES, FEB 27 (11AM)**
+**– DUE FRI, JUNE 1 (11AM)**
 
 ###### What should I cover during my presentation?
 
