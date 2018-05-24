@@ -77,7 +77,7 @@ Your application must:
 ###### What will I be turning in?
 
 ### Project Planning Deliverables
-**- DUE FRI, JUNE 1 (EOD)**
+**- DUE FRI, MAY 25 (EOD)**
 
 **Review the following with your instructors BEFORE coding.**
 
